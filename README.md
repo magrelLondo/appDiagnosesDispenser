@@ -54,3 +54,11 @@ pero me permite visualizar y probar la aplicación móvil.
 si se quiere probar como funciona generando el APK se debe tener una cuenta en expo  y en el terminal donde se encuentra el codigo de la aplicación correr el siguiente comando 
 
 eas build -p android --profile preview
+
+
+## codigo dispensador
+
+### recordatorio: tener instalado aruino y correr el codigo en una ESP32, aparte de eso tener instalado las librerias que se incluyen a proyecto que se ven evidenciadas dentro del codigo que aparecen en los include
+
+para probrar el código es importante tener la armazon, en el PDF se evidencia los elementos que se utilizarón y como van conectados y una breve explicacón
+del codigo por medio de los diagramas de flujo. en el codigo tambien va incluido la URL que se debe cambiar al final de codigo en las funciones DeserializeObjectCan()  y SerializeObjectDispensador(float alimento, float agua,int a,int m,int d,int idc )
