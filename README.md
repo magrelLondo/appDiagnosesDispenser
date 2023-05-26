@@ -56,7 +56,7 @@ si se quiere probar como funciona generando el APK se debe tener una cuenta en e
 eas build -p android --profile preview
 
 
-## codigo dispensador
+## CÓDIGO DISPENSADOR
 
 ### recordatorio: tener instalado aruino y correr el codigo en una ESP32, aparte de eso tener instalado las librerias que se incluyen a proyecto que se ven evidenciadas dentro del codigo que aparecen en los include
 
