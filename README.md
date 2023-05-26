@@ -1,9 +1,9 @@
 # appDiagnosesDispenser
 
 
-##API Django 
+## API Django 
 
-###recordatorio: se debe tener instalado python
+### recordatorio: se debe tener instalado python
 
 la forma de correr el servidor es activar el entorno virtual primero
 
@@ -37,9 +37,9 @@ con esa URL ya se explica que se debe hacer acontinuación en la sección de la 
 
 
 
-##APP
+## APP
 
-###recordatorio: se debe tener instalado node.js 
+### recordatorio: se debe tener instalado node.js 
 
 Despues de tener la URL  vamos a la carpeta aplicacion movil, esta carpeta esta por fuera del backend_1, estando dentro nos ubicamos en el archivo Context,js
 dentro del archivo hay una URL, esa URL se cambia por la nueva que se genero, esto permite luego hacer las peticiones cuando se corra la aplicación movil.
